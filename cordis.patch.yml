@@ -1,0 +1,10 @@
+# Agent心语 · 思维链风格插件
+# 管"想"的口吻：第一人称是我（Agent）· 称主人／主公 · 中文想 · 禁"用户"与工单腔。
+# 与Agent言语引擎分工：那个管说出的话，这个管心里想的话。
+- insert:
+    - id: ql-voice
+      name: 'dsh-think-style'
+      config:
+        enabled: true
+        order: 70
+        tool: true
